@@ -1,5 +1,5 @@
 
-print("NEW Hello Git!")
+print("Hello GitHub!")
 
 print("How its going the course?")
 
